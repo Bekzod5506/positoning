@@ -1,0 +1,71 @@
+
+*{ 
+    margin: 0;
+    padding: 0;   
+}
+header{
+    background-color: rgb(13, 13, 139);
+    height: 90px;
+    width: 100%;
+}
+.logo{
+    font-size: 40px;
+    display: inline-block;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 13px 10px 13px 12px;
+}
+.header{
+    color: white;
+    font-size: 20px;
+    float: right;
+    margin: 35px 30px 15px;
+}
+.span1{
+    padding-right: 9px;
+    font-weight: bold;
+}
+.span1:hover{
+    font-size: 29px;
+    color: chartreuse;
+}
+.bigger-div{
+    background-color: rgb(13, 126, 126);
+    width: 100%;
+    height: 620px;
+}
+.smaller{
+    background-color: rgb(150, 143, 134);
+    text-align: center;
+    height: 500px;
+    width: 90%;
+    position: relative;
+    left: 60px;
+    top: 35px;
+    padding: 50px 35px 0;
+    border: 1.5px solid black;
+    
+}
+footer{
+    background-color: rgb(13, 13, 139);
+    height: 90px;
+    width: 100%;
+    padding-top: 40px;
+}
+.p1{
+    font-size: 19px;
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    border-bottom: 3px solid blue;
+}
+.p2{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: relative;
+    top: 14px;
+}
